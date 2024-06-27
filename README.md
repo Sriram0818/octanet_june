@@ -1,7 +1,7 @@
 # octanet_june
 ATM INTERFACE
-=============================================================================================================================================================SOURCECODE:
-=============================================================================================================================================================
+
+SOURCE CODE:
 import time
 print("welcome to ICICI BANK")
 print("INSERT YOUR CARD")
@@ -46,10 +46,6 @@ else:
 
 OUTPUT:
 
-Python 3.11.5 (tags/v3.11.5:cce6ba9, Aug 24 2023, 14:38:34) [MSC v.1936 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
-
-= RESTART: C:/Users/Srira/AppData/Local/Programs/Python/Python311/oc_task.py
 welcome to ICICI BANK
 INSERT YOUR CARD
 please enter the password:3089
